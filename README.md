@@ -4,5 +4,4 @@
 tensorflow
 
 mtcnn
-
 opencv-python
