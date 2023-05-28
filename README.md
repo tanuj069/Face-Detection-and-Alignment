@@ -1,9 +1,6 @@
 # Face-Detection-and-Alignment
 
-Library required:
-
+<h3>Library required:</h3>
 tensorflow
-
 mtcnn
-
 opencv-python
