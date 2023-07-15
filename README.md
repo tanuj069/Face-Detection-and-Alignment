@@ -12,9 +12,10 @@ opencv-python
 
 <h2 align="left">Demo Video</h2>
 
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:7045435126838607872/?originTrackingId=rSOlMuwzT1mo2we%2B%2FUpWEA%3D%3D" target="_blank">
-        <div style="margin: 3%; position: relative;">
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7045435126838607872/?originTrackingId=rSOlMuwzT1mo2we%2B%2FUpWEA%3D%3D">
+        <figure>
             <img src="https://tse1.mm.bing.net/th?id=OIP.aIsDXMgGQvyWKlYexhu9EQHaE8" alt="Demo Video Link">
-            <h1 style="position: absolute; top: 120px; left: 40px; color: white;">Click here to see Demo Video</h1>
-        </div>
+            <br>
+            <figcaption>Click here to see Demo Video</figcaption>
+        </figure>
 </a>
